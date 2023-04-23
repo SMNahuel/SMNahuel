@@ -3,9 +3,22 @@
 Buenas, un placer que miren mi repositorio, tengo varios proyectos para que puedan ver, ahora mismo mi portfolio esta en desarrollo pero si quieren ir dando una visita mientra pueden hacerlo aquí https://portfolio-nsm.netlify.app/
 
 Un poco mas de mis background, me gusta trabajar en React Native & React, estoy manejando mas Typescript en este momento tengo +2 años de experiencia, he egresado en Soy Henry como developer Fullstack en el stack PERN (PostrgreSQL, Express, React & NodeJS).
+
+
+# SKILL
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,express,redux,sass,materialui,nextjs,postgres,mongodb,mysql,firebase,netlify,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,typescript" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass,materialui,bootstrap,css,styledcomponents,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,graphql,sequelize" />
   </a>
 </p>
 <!--

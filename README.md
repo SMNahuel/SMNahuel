@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Buenas, un placer que miren mi repositorio, tengo varios proyectos para que puedan ver, ahora mismo mi portfolio esta en desarrollo pero si quieren ir dando una visita mientra pueden hacerlo aquí https://portfolio-nsm.netlify.app/
+Buenas, aquí veran mis proyectos en forma de codigo, tengo varios proyectos en los cuales desarrolle mis conocimientos, ahora mismo mi portfolio esta en desarrollo pero si quieren ir dando una visita mientra pueden hacerlo aquí https://portfolio-nsm.netlify.app/
 
-Un poco mas de mis background, me gusta trabajar en React Native & React, estoy manejando mas Typescript en este momento tengo +2 años de experiencia, he egresado en Soy Henry como developer Fullstack en el stack PERN (PostrgreSQL, Express, React & NodeJS).
+Un poco mas de mis background, me gusta trabajar en React Native & React, mi recorrido comenzo en la carrera de Lic. en sistemas de información en la universidad nacional del nordeeste (UNNE) en el año 2016 y profesionalmente en el 2020, he egresado en Soy Henry como developer Fullstack en el stack PERN (PostrgreSQL, Express, React & NodeJS).
 
 
 # SKILL
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,typescript,angular" />
   </a>
 </p>
 <p align="center">
@@ -21,6 +21,7 @@ Un poco mas de mis background, me gusta trabajar en React Native & React, estoy 
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,graphql,sequelize" />
   </a>
 </p>
+
 <!--
 **SMNahuel/SMNahuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

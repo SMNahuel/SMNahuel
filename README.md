@@ -1,38 +1,38 @@
-### Hi there 👋
+### Hi human 👋
 
-Buenas, aquí veran mis proyectos en forma de codigo, tengo varios proyectos en los cuales desarrolle mis conocimientos, ahora mismo mi portfolio esta en desarrollo pero si quieren ir dando una visita mientra pueden hacerlo aquí [Portfolio](https://portfolio-nahuel-san.vercel.app/)
+[Portfolio](https://portfolio-nahuel-san.vercel.app/)
 
-Un poco mas de mis background, me gusta trabajar en React Native & React, mi recorrido comenzo en la carrera de Lic. en sistemas de información en la universidad nacional del nordeeste (UNNE) en el año 2016 y profesionalmente en el 2020, he egresado en Soy Henry como developer Fullstack en el stack PERN (PostrgreSQL, Express, React & NodeJS).
+## About me
 
+Hola, soy desarrollador **Frontend / Mobile** especializado en **React, React Native (Expo) y Next.js**, con experiencia construyendo aplicaciones escalables y enfocadas en la experiencia de usuario.
 
-# SKILL
+Trabajo habitualmente con tecnologías como **TypeScript, Zustand, React Query, Firebase y Tailwind**, y también tengo experiencia en backend con **Node.js, Docker y bases de datos como PostgreSQL y Supabase**.
+
+Me gusta crear productos completos, desde interfaces modernas hasta integraciones con APIs, autenticación y arquitectura escalable. Siempre estoy aprendiendo nuevas tecnologías para mejorar mis proyectos y mi forma de construir software.
+
+🚀 Actualmente estoy enfocado en el desarrollo de aplicaciones móviles con Expo y en la creación de arquitecturas full stack escalables.
+
+📍 Basado en España
+
+---
+
+## Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,typescript,angular" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sass,materialui,bootstrap,css,styledcomponents,tailwind" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,graphql,sequelize" />
   </a>
 </p>
 
-<!--
-**SMNahuel/SMNahuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
